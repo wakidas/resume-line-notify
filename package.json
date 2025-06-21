@@ -1,0 +1,9 @@
+{
+    "type": "module",
+    "scripts": { "start": "node index.js" },
+    "dependencies": {
+      "@line/bot-sdk": "^8.5.0",
+      "express": "^4.19.0"
+    }
+  }
+  
